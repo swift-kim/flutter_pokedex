@@ -1,1 +1,110 @@
-{"assets/fonts/CircularStd-Black.ttf":["assets/fonts/CircularStd-Black.ttf"],"assets/fonts/CircularStd-Bold.ttf":["assets/fonts/CircularStd-Bold.ttf"],"assets/fonts/CircularStd-Book.ttf":["assets/fonts/CircularStd-Book.ttf"],"assets/fonts/CircularStd-Medium.ttf":["assets/fonts/CircularStd-Medium.ttf"],"assets/images/bulbasaur.png":["assets/images/bulbasaur.png"],"assets/images/charmander.png":["assets/images/charmander.png"],"assets/images/chespin.png":["assets/images/chespin.png"],"assets/images/chikorita.png":["assets/images/chikorita.png"],"assets/images/chimchar.png":["assets/images/chimchar.png"],"assets/images/cyndaquil.png":["assets/images/cyndaquil.png"],"assets/images/dotted.png":["assets/images/dotted.png"],"assets/images/female.png":["assets/images/female.png"],"assets/images/fennekin.png":["assets/images/fennekin.png"],"assets/images/froakie.png":["assets/images/froakie.png"],"assets/images/grookey.png":["assets/images/grookey.png"],"assets/images/litten.png":["assets/images/litten.png"],"assets/images/male.png":["assets/images/male.png"],"assets/images/mudkip.png":["assets/images/mudkip.png"],"assets/images/oshawott.png":["assets/images/oshawott.png"],"assets/images/pika_loader.gif":["assets/images/pika_loader.gif"],"assets/images/piplup.png":["assets/images/piplup.png"],"assets/images/pokeball.png":["assets/images/pokeball.png"],"assets/images/popplio.png":["assets/images/popplio.png"],"assets/images/rowlet.png":["assets/images/rowlet.png"],"assets/images/scorbunny.png":["assets/images/scorbunny.png"],"assets/images/snivy.png":["assets/images/snivy.png"],"assets/images/sobble.png":["assets/images/sobble.png"],"assets/images/squirtle.png":["assets/images/squirtle.png"],"assets/images/tepig.png":["assets/images/tepig.png"],"assets/images/thumbnail.png":["assets/images/thumbnail.png"],"assets/images/torchic.png":["assets/images/torchic.png"],"assets/images/totodile.png":["assets/images/totodile.png"],"assets/images/treecko.png":["assets/images/treecko.png"],"assets/images/turtwig.png":["assets/images/turtwig.png"],"assets/items.json":["assets/items.json"],"assets/pokemons.json":["assets/pokemons.json"]}
+{
+    "assets/fonts/CircularStd-Black.ttf": [
+        "flutter_pokedex/assets/fonts/CircularStd-Black.ttf"
+    ],
+    "assets/fonts/CircularStd-Bold.ttf": [
+        "flutter_pokedex/assets/fonts/CircularStd-Bold.ttf"
+    ],
+    "assets/fonts/CircularStd-Book.ttf": [
+        "flutter_pokedex/assets/fonts/CircularStd-Book.ttf"
+    ],
+    "assets/fonts/CircularStd-Medium.ttf": [
+        "flutter_pokedex/assets/fonts/CircularStd-Medium.ttf"
+    ],
+    "assets/images/bulbasaur.png": [
+        "flutter_pokedex/assets/images/bulbasaur.png"
+    ],
+    "assets/images/charmander.png": [
+        "flutter_pokedex/assets/images/charmander.png"
+    ],
+    "assets/images/chespin.png": [
+        "flutter_pokedex/assets/images/chespin.png"
+    ],
+    "assets/images/chikorita.png": [
+        "flutter_pokedex/assets/images/chikorita.png"
+    ],
+    "assets/images/chimchar.png": [
+        "flutter_pokedex/assets/images/chimchar.png"
+    ],
+    "assets/images/cyndaquil.png": [
+        "flutter_pokedex/assets/images/cyndaquil.png"
+    ],
+    "assets/images/dotted.png": [
+        "flutter_pokedex/assets/images/dotted.png"
+    ],
+    "assets/images/female.png": [
+        "flutter_pokedex/assets/images/female.png"
+    ],
+    "assets/images/fennekin.png": [
+        "flutter_pokedex/assets/images/fennekin.png"
+    ],
+    "assets/images/froakie.png": [
+        "flutter_pokedex/assets/images/froakie.png"
+    ],
+    "assets/images/grookey.png": [
+        "flutter_pokedex/assets/images/grookey.png"
+    ],
+    "assets/images/litten.png": [
+        "flutter_pokedex/assets/images/litten.png"
+    ],
+    "assets/images/male.png": [
+        "flutter_pokedex/assets/images/male.png"
+    ],
+    "assets/images/mudkip.png": [
+        "flutter_pokedex/assets/images/mudkip.png"
+    ],
+    "assets/images/oshawott.png": [
+        "flutter_pokedex/assets/images/oshawott.png"
+    ],
+    "assets/images/pika_loader.gif": [
+        "flutter_pokedex/assets/images/pika_loader.gif"
+    ],
+    "assets/images/piplup.png": [
+        "flutter_pokedex/assets/images/piplup.png"
+    ],
+    "assets/images/pokeball.png": [
+        "flutter_pokedex/assets/images/pokeball.png"
+    ],
+    "assets/images/popplio.png": [
+        "flutter_pokedex/assets/images/popplio.png"
+    ],
+    "assets/images/rowlet.png": [
+        "flutter_pokedex/assets/images/rowlet.png"
+    ],
+    "assets/images/scorbunny.png": [
+        "flutter_pokedex/assets/images/scorbunny.png"
+    ],
+    "assets/images/snivy.png": [
+        "flutter_pokedex/assets/images/snivy.png"
+    ],
+    "assets/images/sobble.png": [
+        "flutter_pokedex/assets/images/sobble.png"
+    ],
+    "assets/images/squirtle.png": [
+        "flutter_pokedex/assets/images/squirtle.png"
+    ],
+    "assets/images/tepig.png": [
+        "flutter_pokedex/assets/images/tepig.png"
+    ],
+    "assets/images/thumbnail.png": [
+        "flutter_pokedex/assets/images/thumbnail.png"
+    ],
+    "assets/images/torchic.png": [
+        "flutter_pokedex/assets/images/torchic.png"
+    ],
+    "assets/images/totodile.png": [
+        "flutter_pokedex/assets/images/totodile.png"
+    ],
+    "assets/images/treecko.png": [
+        "flutter_pokedex/assets/images/treecko.png"
+    ],
+    "assets/images/turtwig.png": [
+        "flutter_pokedex/assets/images/turtwig.png"
+    ],
+    "assets/items.json": [
+        "flutter_pokedex/assets/items.json"
+    ],
+    "assets/pokemons.json": [
+        "flutter_pokedex/assets/pokemons.json"
+    ]
+}

@@ -1,1 +1,30 @@
-[{"family":"MaterialIcons","fonts":[{"asset":"fonts/MaterialIcons-Regular.otf"}]},{"family":"CircularStd","fonts":[{"asset":"assets/fonts/CircularStd-Book.ttf"},{"weight":600,"asset":"assets/fonts/CircularStd-Medium.ttf"},{"weight":700,"asset":"assets/fonts/CircularStd-Black.ttf"},{"weight":900,"asset":"assets/fonts/CircularStd-Bold.ttf"}]}]
+[
+    {
+        "family": "MaterialIcons",
+        "fonts": [
+            {
+                "asset": "flutter_pokedex/fonts/MaterialIcons-Regular.otf"
+            }
+        ]
+    },
+    {
+        "family": "CircularStd",
+        "fonts": [
+            {
+                "asset": "flutter_pokedex/assets/fonts/CircularStd-Book.ttf"
+            },
+            {
+                "weight": 600,
+                "asset": "flutter_pokedex/assets/fonts/CircularStd-Medium.ttf"
+            },
+            {
+                "weight": 700,
+                "asset": "flutter_pokedex/assets/fonts/CircularStd-Black.ttf"
+            },
+            {
+                "weight": 900,
+                "asset": "flutter_pokedex/assets/fonts/CircularStd-Bold.ttf"
+            }
+        ]
+    }
+]
